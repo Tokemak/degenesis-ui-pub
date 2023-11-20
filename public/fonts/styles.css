@@ -1,0 +1,85 @@
+@font-face {
+  font-family: 'ABC Favorit';
+  font-style: normal;
+  font-weight: 700;
+  font-display: block;
+  src: url(/fonts/Favorit-Bold-New.otf) format('opentype');
+}
+@font-face {
+  font-family: 'ABC Favorit';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url(/fonts/Favorit-Regular-New.otf) format('opentype');
+}
+@font-face {
+  font-family: 'ABC Favorit Lining';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url(/fonts/FavoritLining-Regular-New.otf) format('opentype');
+}
+@font-face {
+  font-family: 'ABC Favorit Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url(/fonts/SpaceMono-Regular.ttf) format('truetype');
+}
+
+.font-favorit {
+  font-family: 'ABC Favorit';
+}
+
+.font-favorit-mono {
+  font-family: 'ABC Favorit Mono';
+}
+
+.text-gray {
+  color: #707070;
+}
+
+.text-light-gray {
+  color: #aaaaaa;
+}
+
+.text-green {
+  color: #b5ff00;
+}
+
+.text-blue {
+  color: #6e8dff;
+}
+
+.text-dark-blue {
+  color: #5076ff;
+}
+
+.text-orange {
+  color: #ffd600;
+}
+
+.back-green {
+  background-color: #b5ff00;
+}
+
+.text-tiny {
+  font-size: 0.625rem;
+  line-height: 1.5rem;
+}
+
+.text-huge {
+  font-size: 2.75rem;
+  line-height: 3rem;
+}
+
+#modal-root {
+  top: 50%;
+  left: 50%;
+  position: fixed;
+  font-family: 'ABC Favorit';
+}
+
+.back-gray {
+  background-color: #aaaaaa !important;
+}

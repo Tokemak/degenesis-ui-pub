@@ -1,0 +1,11 @@
+{
+  "short_name": "Tokemak",
+  "name": "DeGenesis Event",
+  "icons": [{
+    "src": "512.png",
+    "sizes": "512x512"
+  }],
+  "start_url": "./",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}

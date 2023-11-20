@@ -1,0 +1,21 @@
+{
+  "short_name": "Tokemak",
+  "name": "Tokemak - DeGenesis Event",
+  "icons": [
+    {
+      "src": "180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "48x48 72x72 96x96 128x128 256x256",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}
